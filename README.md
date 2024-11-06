@@ -7,7 +7,7 @@
 
 ## ¿Cómo instalar?
 ### Descargar la carpeta del proyecto como .zip o clona este repositorio con el siguiente comando:
-### git clone https://github.com/scastanoa1/JobSmart.git
+### git clone https://github.com/yessetkr21/JobSmart.git
 
 ## ¿Cómo correrlo?
 ### 1. Ve al directorio donde tienes el proyecto
